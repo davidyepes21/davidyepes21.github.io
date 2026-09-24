@@ -1,152 +1,137 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "David Yepes",
+    "label": "Ingeniero Civil / Ingeniero de Caminos, Canales y Puertos",
+    "email": "davidyepesromera@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://davidyepes21.github.io",
+    "summary": "Ingeniero de Caminos, Canales y Puertos (Máster UPV / PoliMi). Especialista en hidráulica, estructuras y macroproyectos multidisciplinares de energía e industria pesada.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Madrid / Murcia",
+      "countryCode": "ES",
+      "region": "España"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "davidyepes21",
+        "url": "https://github.com/davidyepes21"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Técnicas Reunidas",
+      "position": "Ingeniero Civil y de Estructuras Metálicas",
+      "website": "https://www.tecnicasreunidas.es",
+      "startDate": "2024-02-01",
+      "endDate": "Present",
+      "summary": "Diseño y cálculo de estructuras metálicas y cimentaciones para proyectos petroquímicos y de transición energética internacional: Project One (Amberes, Bélgica - INEOS) y La Robla Green (León, España - Reolum)."
+    },
+    {
+      "company": "Instituto de Ingeniería del Agua y Medio Ambiente (IIAMA - UPV)",
+      "position": "Ingeniero Hidráulico",
+      "website": "https://iiama.upv.es",
+      "startDate": "2020-11-01",
+      "endDate": "2023-09-30",
+      "summary": "Convenio con la Confederación Hidrográfica del Segura (CHS). Estudios hidráulicos e hidrológicos para las presas de laminación de avenidas (Rambla del Tinajón, Tabala, El Garruchal) y drenaje pluvial de ramblas norte de Murcia."
+    },
+    {
+      "company": "Felipe Hernández (Arquitecto Técnico)",
+      "position": "Adjunto del Jefe de Obra",
+      "website": "",
+      "startDate": "2020-04-01",
+      "endDate": "2021-10-31",
+      "summary": "Obras de emergencia y reparación estructural en la cubierta sur del Aeropuerto de Alicante-Elche (ALC - Aena) tras siniestro por incendio."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Universidad Politécnica de Valencia (UPV)",
+      "area": "Máster en Ingeniería de Caminos, Canales y Puertos",
+      "studyType": "Máster Oficial Habilitante",
+      "startDate": "2021-09-01",
+      "endDate": "2023-06-30"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "Politecnico di Milano (PoliMi), Italia",
+      "area": "Civil and Environmental Engineering",
+      "studyType": "Programa Erasmus+",
+      "startDate": "2022-09-01",
+      "endDate": "2023-02-28"
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Universidad Politécnica de Valencia (UPV)",
+      "area": "Grado en Ingeniería Civil",
+      "studyType": "Grado Oficial",
+      "startDate": "2017-09-01",
+      "endDate": "2021-06-30"
+    },
+    {
+      "institution": "IES Alfonso X el Sabio (Murcia)",
+      "area": "Bachillerato Internacional (IBO)",
+      "studyType": "Diploma Internacional",
+      "startDate": "2015-09-01",
+      "endDate": "2017-06-30"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
+  "skills": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Software & Cálculo",
+      "level": "Avanzado",
+      "keywords": ["AutoCAD", "AutoCAD Civil 3D", "Autodesk Revit", "SAP2000", "CYPE (CYPECAD, CYPE 3D)", "Metodologías BIM"]
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Competencias de Gestión",
+      "level": "Avanzado",
+      "keywords": ["Negociación técnica", "Resolución de conflictos", "Optimización de recursos", "Adaptabilidad intercultural"]
     }
   ],
-  "presentations": [
+  "languages": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "language": "Italiano",
+      "fluency": "Nativo"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "language": "Inglés",
+      "fluency": "B2 Cambridge"
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "language": "Alemán",
+      "fluency": "A2 EOI"
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Project One (Amberes, Bélgica) – INEOS",
       "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Craqueador de etano de 1,5 Mt/año. Cálculo de estructuras metálicas y cimentaciones complejas en Técnicas Reunidas."
+    },
+    {
+      "name": "La Robla Green (León, España) – Reolum",
+      "category": "portfolio",
+      "description": "Macrocomplejo de 4 plantas: biomasa, captura de CO₂, hidrógeno verde y e-metanol."
+    },
+    {
+      "name": "Presas de Laminación de Avenidas – CHS",
+      "category": "portfolio",
+      "description": "Proyectos de las presas de la Rambla del Tinajón, Tabala y El Garruchal."
+    },
+    {
+      "name": "Drenaje Pluvial Ramblas Norte – Murcia",
+      "category": "portfolio",
+      "description": "Estudio director de soluciones de drenaje e inundabilidad para la Confederación Hidrográfica del Segura."
+    },
+    {
+      "name": "Obras de Emergencia Aeropuerto Alicante-Elche (ALC)",
+      "category": "portfolio",
+      "description": "Supervisión a pie de obra en la consolidación y reconstrucción de la cubierta sur para Aena."
     }
   ]
 }
